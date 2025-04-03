@@ -1,2 +1,2 @@
 # SomewhatDependencyInjector
-Dependency injection tool for unity.
+Light-weighted dependency injection tool for unity.
